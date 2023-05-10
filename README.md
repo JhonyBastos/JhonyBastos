@@ -17,7 +17,7 @@ def helloWorld() {
 ```
 - 💻 Atuando como Analista de Dados e Desenvolvedor Back-end
 - 📊 Em busca de novos desafios e apredizados que colaborem com o meu crescimento profissional e pessoal.
-- 📈 Apreder, Compartilhar e Ensinar... O caminho para o conhecimento é a prática do que sabemos.
+- 📈 Aprender, Compartilhar e Ensinar... O caminho para o conhecimento é a prática do que sabemos.
 
 ## **Linguagens e Ferramentas:**  
 
