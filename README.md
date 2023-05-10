@@ -15,7 +15,7 @@ def helloWorld() {
   languages = ("Python", "JavaScript", "Kotlin", "React", "PHP", "SQL") 
 
 ```
-- 💻 Atuando como Analista de Dados e Desenvolvedor Back-end
+- 💻 Atuando como Analista de Dados e Desenvolvedor Back-end.
 - 📊 Em busca de novos desafios e apredizados que colaborem com o meu crescimento profissional e pessoal.
 - 📈 Aprender, Compartilhar e Ensinar... O caminho para o conhecimento é a prática do que sabemos.
 
@@ -52,7 +52,7 @@ def helloWorld() {
 [linkedin]: https://www.linkedin.com/in/jbmoraes/
 <br>
 
-#### Rede Sociais!
+#### Mídias Sociais!
 
 [<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />][instagram]
 **|** 
