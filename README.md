@@ -7,7 +7,7 @@ O enriquecimento do conhecimento humano é feito por meio da prática e comparti
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```python
-def helloWorld() {
+def helloWorld():
   name = "Jonathan bastos de Moraes Ferreira"
   acknowledgements = "Gestão da Tecnologia da Informação / Ciência de Dados"
  
